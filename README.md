@@ -10,6 +10,8 @@ Use the [composer](https://getcomposer.org/) to install the dependencies.
 $ composer i
 ```
 
+![exemple-easy](https://user-images.githubusercontent.com/20155028/104212825-64abec80-5414-11eb-92aa-8a850e863caa.gif)
+
 ### Plugins
 
 dom-to-image-mpdf is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
