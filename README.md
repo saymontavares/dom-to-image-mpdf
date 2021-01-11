@@ -18,8 +18,8 @@ dom-to-image-mpdf is currently extended with the following plugins. Instructions
 
 | Plugin | README |
 | ------ | ------ |
-| mPDF | [https://github.com/mpdf/mpdf/blob/development/README.md][PlDb] |
-| dom-to-image | [https://github.com/tsayen/dom-to-image/blob/master/README.md][PlGh] |
+| mPDF | [https://github.com/mpdf/mpdf/blob/development/README.md] |
+| dom-to-image | [https://github.com/tsayen/dom-to-image/blob/master/README.md] |
 
 
 [mPDF]: <https://github.com/mpdf/mpdf>
